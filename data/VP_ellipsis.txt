@@ -1,0 +1,15 @@
+# VP_ellipsis.txt
+# (C) 2023 by Dhananjay Srivastava <dsrivast@iu.edu>
+# language: guj
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+કબીરે આ પુસ્તક પહેલી વાર વાંચ્યું અને મીનાએ પણ ___.
+----
+કબીરે આ પુસ્તક પહેલી વાર વાંચ્યું અને મીનાએ પણ આ પુસ્તક પહેલી વાર વાંચ્યું.
+# Translation eng: Kabir read this book for the first time and Mina too [read the book for the first time]
+
+રવિ દરરોજ સાંજે એક પુસ્તક વાંચવાનો પ્રયત્ન કરે છે અને દિવ્યા ___ ન્યૂઝ મેગેઝિન ___.
+----
+રવિ દરરોજ સાંજે પુસ્તક વાંચવાનો પ્રયત્ન કરે છે અને દિવ્યા દરરોજ સાંજે એક ન્યૂઝ મેગેઝિન વાંચવાનો પ્રયત્ન કરે છે.
+# Translation eng: Ravi tries to read a book daily in the evening and Divya [tries to read] a news magazine 

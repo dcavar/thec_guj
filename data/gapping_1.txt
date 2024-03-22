@@ -1,0 +1,45 @@
+# gapping_1.txt
+# (C) 2023 by Dhananjay Srivastava <dsrivast@iu.edu>
+# language: guj
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+જ્હોન એક અખબાર વાંચે છે અને મેરી એક પુસ્તક ___.
+----
+જ્હોન એક અખબાર વાંચે છે અને મેરી એક પુસ્તક વાંચે છે.
+# Translation eng: John reads a newspaper and Mary [reads] a book.
+
+રામ કોફી ___ અને સીતા ચા પીવે છે.
+----
+રામ કોફી પીવે છે અને સીતા ચા પીવે છે.
+# Translation eng: Sita is drinking tea and Ram [is drinking] coffee. 
+
+શ્યામ ફૂટબૉલ રમે છે, અને રામ ક્રિકેટ ___.
+----
+શ્યામ ફૂટબૉલ રમે છે, અને રામ ક્રિકેટ રમે છે.
+# Translation eng: Shyam is playing football and Ram [is playing] cricket.
+
+કરણ શાકભાજી ___ અને અર્જુન ફળ ખાય છે.
+----
+કરણ શાકભાજી ખાય છે અને અર્જુન ફળ ખાય છે.
+# Translation eng: Karan [eats] vegetables and Arjun eats fruits.
+
+પોલ અને જ્હોન સમાચાર જોઈ રહ્યા હતા, અને મેરી એક મૂવી ___.
+----
+પોલ અને જ્હોન સમાચાર જોઈ રહ્યા હતા, અને મેરી એક મૂવી જોઈ રહી હતી.
+# Translation eng: Paul and John were watching the news and Mary [was watching] a movie.
+
+ફ્રેડ ને બિલાડી ___ અને સેલી ને કૂતરો પાળવું ગમે છે.
+----
+ફ્રેડ ને બિલાડી પાળવું ગમે છે અને સેલી ને કૂતરો પાળવું ગમે છે.
+# Translation eng: Sally likes to pet the dog and Fred [likes to pet] the cat.
+
+હું તને બોલાવું કે તું મને ___?
+----
+હું તને બોલાવું કે તું મને બોલાવે?
+# Translation eng: Should I call you, or you [call] me?
+
+
+
+
+
